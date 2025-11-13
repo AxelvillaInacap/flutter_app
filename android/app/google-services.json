@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "118315960641",
+    "firebase_url": "https://evaluacion3-iot-flutter-default-rtdb.firebaseio.com",
+    "project_id": "evaluacion3-iot-flutter",
+    "storage_bucket": "evaluacion3-iot-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118315960641:android:d96c5579816f06a1aa79c0",
+        "android_client_info": {
+          "package_name": "com.example.evaluacion_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDThAhUDUwTLjdhbtpbaABX8KizpKodlJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
